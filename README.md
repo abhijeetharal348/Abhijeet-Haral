@@ -39,7 +39,7 @@ More projects coming soon!
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/abhijeetharal348
 - LinkedIn: Coming soon
 
 ---
